@@ -1,0 +1,71 @@
+# Visual Studio
+.vscode/
+.vs/
+**/.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+*.nupkg
+# NuGet Symbol Packages
+*.snupkg
+.nuget/
+
+# Microsoft Azure Web App publish settings
+*.azurePubxml
+*.azurePubxml.user
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# JetBrains Rider
+.idea/
+
+# Generated files
+Generated_Code/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Lock files
+*.lock
+
+# Directory-based project format
+.ionide/
